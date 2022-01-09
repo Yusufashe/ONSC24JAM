@@ -2974,7 +2974,7 @@ Ryuu.sendMessage(from, {displayName: `Ownernya ${botname}`, vcard: vcard2}, cont
 { quoted: ftrol, 
 })
  menu =`Itu Owner ku kak mau nanya soal apa yaa..`
-      teks =`Ryuuka <3`
+      teks =`Yusufashe <3`
       Ryuu.sendMessage(from, { contentText: `${menu}`, footerText: `${teks}`, buttons: [{ buttonId: `${prefix}sc`, buttonText: { displayText: 'script' }, type: 1 },{ buttonId: `${prefix}donasi`, buttonText: { displayText: 'donasi' }, type: 1 } ], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: fakeimage, contextInfo: {mentionedJid: [sender]}}}, 'buttonsMessage')
 break
 case 'bc':

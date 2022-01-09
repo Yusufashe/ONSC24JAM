@@ -2001,85 +2001,85 @@ case 'cecanvietnam':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/cewe/vietnam?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'cecanmalaysia':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/cewe/malaysia?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'cecankorea':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/cewe/korea?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'cecanindonesia':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/cewe/indonesia?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'cecanjapan':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/cewe/japan?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'cecanthailand':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/cewe/thailand?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'cecanchina':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/cewe/china?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'asupancecan':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/cecan?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'asupanhijaber':
 huft = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/hijaber?apikey=ZeroYT7`)
 reply(mess.wait)
 goo = await getBuffer(huft.result.url)
-Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, goo, image, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'asupansantuy':
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/santuy?apikey=ZeroYT7`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'asupanukhti':
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/ukty?apikey=ZeroYT7`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'asupanbocil':
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/bocil?apikey=ZeroYT7`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'asupanghea':
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/ghea?apikey=ZeroYT7`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 case 'asupanrika':
 ini = await fetchJson(`https://zeroyt7-api.herokuapp.com/api/asupan/rikagusriani?apikey=ZeroYT7`)
 reply(mess.wait)
 buffer = await getBuffer(ini.result.url)
-Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Ryuuka Botz'})
+Ryuu.sendMessage(from, buffer, video, {quoted: troli, caption: 'Nih Jangan Lupa Subscribe YT : Yusuf Ashe'})
 break
 //══════════[ Fitur Nfsw ]══════════//
 case 'awoo':
@@ -2327,7 +2327,7 @@ fs.unlinkSync(ran)
 })
 break
 case 'ttp':  
-                    if (!c) return reply(`Teks Nya Mana Kak?\nContoh :\n${prefix}attp Ryuuka Botz`)
+                    if (!c) return reply(`Teks Nya Mana Kak?\nContoh :\n${prefix}attp Yusuf Ashe`)
                     anu1 = await getBuffer(`https://api.xteam.xyz/ttp?file&text=${c}`)
                     Ryuu.sendMessage(from, anu1, image, {quoted: mek, caption : `${prefix}sticker`})
                     break
